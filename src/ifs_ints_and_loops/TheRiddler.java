@@ -29,8 +29,6 @@ score = score +1;
 if(answer.equalsIgnoreCase("Clock")) {
 	
 }else {
-
-}else {
 	JOptionPane.showMessageDialog(null, "Wrong!");
 }
 JOptionPane.showMessageDialog(null, "Your score is " + score);
